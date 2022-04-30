@@ -2,7 +2,7 @@
 `Special Thanks for GrowtopiaNoobs and all users that are concerned`
 
 ## configuration
-**Release x64**
+🛠️**Release x64**
 
 ## Important
 **Please note that most of the codes aren't made by me. They belong to their original coders.**
